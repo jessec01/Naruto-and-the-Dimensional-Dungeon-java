@@ -12,6 +12,7 @@ This repository is currently under construction. Features may change without not
 - **tools:** Git
 
 ## 📋 Roadmap
+- [ ] Connecting GitHub with Clickup
 - [ ] Configure project structure
 - [ ] Implement the main class (Main)
 
